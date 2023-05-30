@@ -1,2 +1,2 @@
 Usage:
-'python3 scraper.py -s economist'
+`python3 scraper.py -s economist`
